@@ -1,4 +1,4 @@
-FROM registry.cn-shanghai.aliyuncs.com/jflab/base_images:v1
+FROM registry.cn-shanghai.aliyuncs.com/jflab/base_images:v2
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
